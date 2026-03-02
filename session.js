@@ -28,6 +28,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "SENURA-MD~your_session_id_here",
+SESSION_ID: process.env.SESSION_ID || "KEY_94787751901_1772425836765",
 PORT: process.env.PORT || "8000"
+
 };
